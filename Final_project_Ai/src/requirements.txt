@@ -1,0 +1,11 @@
+# Required packages
+pandas
+python-dotenv
+langchain
+openai
+langchain-community
+pdfplumber
+
+PyPDF2
+
+-e .
